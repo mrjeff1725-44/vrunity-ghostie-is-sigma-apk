@@ -10,8 +10,8 @@ android {
         applicationId 'com.vrunity.vrapk'
         minSdk 29
         targetSdk 34
-        versionCode 1790906339
-        versionName '1.339'
+        versionCode 1790909543
+        versionName '1.543'
         ndk { abiFilters 'arm64-v8a' }
     }
     buildTypes {
